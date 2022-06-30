@@ -1,0 +1,7 @@
+.comment:before {
+    content: "/* "
+}
+
+.comment:after {
+    content: " */"
+}
